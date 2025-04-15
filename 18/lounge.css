@@ -1,0 +1,57 @@
+body {
+  font-size: small;
+	font-family: Georgia, "Times New Roman"
+	line-height: 1.6em;
+}
+
+h1, h2 {
+	color: #007e7e;
+}
+
+h1 {
+	font-size:1.5em;
+}
+
+h2 {
+	font-size:1.3em;
+}
+
+.guarantee {
+  border-color:white;
+  border-width:1.9em;
+  border-style:italic;
+  background-color: #444444;
+  padding: 25px; 
+  margin: 30px;
+  background-image: url(images/background.gif);
+  background-repeat: no-repeat;
+  background-position: top left;
+  padding: 25px;
+  padding-left: 80px;
+  margin-right: 250px;
+  border-radius: 15px;
+  border-top-right-radius: 2em;
+  border-bottom-left-radius: 2em;
+}
+
+ .exlirs {
+  border-width: thin;
+  border-style: solid;
+  border-color: #007e7e;
+  width:200px;
+  padding-right:20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  margin-left: 20px;
+  background-image: url(images/cocktail.gif);
+  background-repeat: repeat-x;
+  text-align: center;
+}
+
+.cd {
+  font-style: italic;
+}
+
+.artist {
+  font-weight: bold;
+ }
